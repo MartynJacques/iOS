@@ -2,7 +2,7 @@
 A set of programs written whilst learning iOS.
 
 In order to teach myself iOS Programming I worked through
-"iOS Programming The Big Nerd Ranch Guide(4th Edition)".
+"iOS Programming The Big Nerd Ranch Guide (4th Edition)".
 
 This repo contains all the programs that I wrote whilst
 working through the book.
